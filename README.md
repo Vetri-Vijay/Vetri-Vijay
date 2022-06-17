@@ -1,5 +1,5 @@
 ### Hello
-I use this GitHub account for my website and solar car team (which is private). Contact me via my email: vetrivijay2002@gmail.com.
+I use this GitHub account for my website (vetri-vijay.github.io/publicsite) and solar car team (which is private). Contact me via my email: vetrivijay2002@gmail.com.
 
 <!--
 **Vetri-Vijay/Vetri-Vijay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
